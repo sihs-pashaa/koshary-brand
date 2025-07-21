@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/koshary-brand/static/css/main.5c32a573.css",
+    "main.js": "/koshary-brand/static/js/main.f166f841.js",
+    "static/js/453.670e15c7.chunk.js": "/koshary-brand/static/js/453.670e15c7.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/koshary-brand/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/koshary-brand/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/koshary-brand/index.html",
+    "main.5c32a573.css.map": "/koshary-brand/static/css/main.5c32a573.css.map",
+    "main.f166f841.js.map": "/koshary-brand/static/js/main.f166f841.js.map",
+    "453.670e15c7.chunk.js.map": "/koshary-brand/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c32a573.css",
+    "static/js/main.f166f841.js"
+  ]
+}
